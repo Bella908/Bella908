@@ -1,4 +1,4 @@
-![logo](https://github.com/Bella908/Bella908/blob/main/wallpaper.jpeg)
+![logo](https://github.com/Bella908/Bella908/blob/main/Wallpaper.png)
 
 <!--
 **Bella908/Bella908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
